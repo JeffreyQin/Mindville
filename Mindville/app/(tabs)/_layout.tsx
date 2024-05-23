@@ -2,7 +2,6 @@ import { Tabs } from 'expo-router';
 import React from 'react';
 import { Image } from 'react-native';
 
-import { TabBarIcon } from '@/components/navigation/TabBarIcon';
 import { Colors } from '@/constants/Colors';
 import { useColorScheme } from '@/hooks/useColorScheme';
 
